@@ -1,9 +1,9 @@
 package listas.stmple;
 
 /**
-•Definicion de lista simple
-•@autor Crustopher Gerardo Villanueva Ramirez
-•@date 15 de octubre 2026
+*Definicion de lista simple
+*@autor Cristopher Gerardo Villanueva Ramirez
+*@date 15 de octubre 2026
 
 public class ListaSimple {
     private Nodo cabeza;
@@ -38,3 +38,4 @@ public class ListaSimple {
         }
     }
 }
+
